@@ -2,10 +2,14 @@ p {
   font-family: 'Barlow', sans-serif;
 }
 
+h5 {
+    font-size: 2.25em;
+}
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    /* background: url("../images/background.jpg") fixed no-repeat; */
     background-size: 100%;
     background-color: black;
 }
@@ -22,7 +26,7 @@ blockquote{
     padding: 20px;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
-    background: white !important;
+    background: #000 !important;
 }
 .navbar-brand{
     display: flex;
@@ -31,13 +35,21 @@ blockquote{
   margin-right: 2em;
 }
 
+a.nav-link {
+    color: white !important;
+}
+
+a.nav-link:hover {
+    color: #E2AA44 !important;
+}
+
 #cohort22{
     display: inline-block;
-    color: #238193;
+    color: white;
 }
 
 #jumbheader{
-    box-shadow: 2px 2px 2px rgb(167, 166, 166);
+    /* box-shadow: 2px 2px 2px rgb(167, 166, 166); */
     background-color: #238193!important;
     color: lightgray;
 
@@ -52,7 +64,7 @@ blockquote{
 }
 
 .title-font {
-    text-align: center;
+    text-align: center !important;
     vertical-align: middle;
 }
 
@@ -89,12 +101,9 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border: 1px solid lightgray;
-    border-radius:10px;
-    box-shadow: 2px 2px 2px lightgray;
     margin: 10px;
     margin-bottom: 25px;
-    background: white;
+    color: white;
 }
 
 .col-sm-2.technologies{
@@ -125,8 +134,9 @@ main {
   }
 
 .card-img-top{
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-radius: 10em;
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 10px; */
   }
 
 .col,
@@ -148,22 +158,20 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: #A92323;
   }
   .contactIcons:hover{
       transform: scale(1.2);
   }
 
   .modal-header{
-    background-color: lightgray!important;
-    color: #238193;
+    /* background-color: lightgray!important; */
+    /* color: #238193; */
   }
 
   .modal-body img{
     width: 50%;
     height: 50%;
-    box-shadow: 3px 3px 5px #cacaca;
-    border-radius: 10px;
   }
 
   .backButton{
@@ -173,7 +181,7 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color: #A92323!important;
     color: white;
 }
 
@@ -189,8 +197,8 @@ button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: white !important;
+    border-color: #A92323!important;
 }
 
 .btn-outline-primary:hover{

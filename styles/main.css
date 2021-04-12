@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@200;400;600;700&display=swap');
+
 p {
-  font-family: 'Barlow', sans-serif;
+    font-family: 'Spartan', sans-serif;
 }
 
 h5 {
@@ -12,6 +14,7 @@ html, body {
     /* background: url("../images/background.jpg") fixed no-repeat; */
     background-size: 100%;
     background-color: black;
+    font-family: 'Spartan', sans-serif;
 }
 
 blockquote{
@@ -149,6 +152,19 @@ main {
     display: block;
   }
 
+  .modal-content {
+      background-color: #000;
+  }
+
+  body.modal-open {
+    color: white !important;
+  }
+
+  .close {
+      color: white !important;
+      text-shadow: none !important;
+  }
+
   .studentContact{
       text-align: center;
       display: flex;
@@ -167,16 +183,45 @@ main {
   .modal-header{
     /* background-color: lightgray!important; */
     /* color: #238193; */
+    border: none;
+    text-align: center;
   }
 
-  .modal-body img{
-    width: 50%;
-    height: 50%;
-  }
+  .modal-title .title-font{
+    text-align: left !important;
+}
 
-  .backButton{
-      margin-bottom: 1.5rem;
-  }
+.modal-img-container {
+    background-color: white;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.modal-img {
+    margin: 0 auto;
+    display: block;
+    width: 35%;
+    height: 35%;
+    margin-bottom: -1.55em;
+}
+  
+div.modal-body h5 {
+    text-align: left !important;
+}
+    
+.modal-contact {
+     float: left;
+}
+
+div.modal-contact div.studentContact svg.contactIcons{
+    padding: .1em;
+}
+
+.backButton {
+    margin-bottom: 1.5rem;
+    float: right;
+    margin: 1em;
+}
 
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;

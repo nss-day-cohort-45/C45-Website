@@ -53,7 +53,7 @@ a.nav-link:hover {
 
 #jumbheader{
     /* box-shadow: 2px 2px 2px rgb(167, 166, 166); */
-    background-color: #238193!important;
+    background-color: #A92323!important;
     color: lightgray;
 
 }
@@ -115,7 +115,7 @@ main {
     box-shadow: none;
 }
 
-.technos, .words{
+.technos {
     margin-top: -55px;
     background: white;
     padding:20px;
@@ -127,8 +127,13 @@ main {
     margin: 20px 0px;
   }
 
-.words{
-    padding:50px;
+.thankyou--container {
+    background: white;
+    display: flex;
+}
+
+div.thanks p {
+    display: flex
 }
 
 .no-gutters {
@@ -200,9 +205,9 @@ main {
 .modal-img {
     margin: 0 auto;
     display: block;
-    width: 35%;
-    height: 35%;
-    margin-bottom: -1.55em;
+    width: 50%;
+    height: 50%;
+    margin-bottom: -1.50em;
 }
   
 div.modal-body h5 {

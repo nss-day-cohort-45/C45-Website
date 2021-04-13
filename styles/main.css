@@ -75,6 +75,16 @@ a.nav-link:hover {
     height: 50px;
 }
 
+h1.text-center {
+    color: white;
+}
+
+h2.title-font {
+    text-transform: uppercase;
+    font-size: 1.25em;
+    letter-spacing: .05em;
+}
+
 
 .jumbotron.jumbotron-fluid{
     background: none;
@@ -253,7 +263,7 @@ button{
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: #E2AA44!important;
 }
 
 /* adjusts size of contact icons depending on size of card */

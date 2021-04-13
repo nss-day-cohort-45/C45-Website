@@ -125,3 +125,4 @@ function techs(list) {
       </div>`;
   });
 };
+

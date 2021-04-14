@@ -10,8 +10,8 @@
             "linkedIn": "https://www.linkedin.com/in/tatiane-komrij",
             "portfolio": "https://tkomrij.github.io/",
             "email": "tatiane.b.komrij@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "TatianeKomrij.png",
+            "funImg": "TatianeKomrij.png"
         },
 
         {
@@ -38,8 +38,8 @@
             "linkedIn": "https://www.linkedin.com/in/rryb/",
             "portfolio": "hhtps://rryb77.github.io",
             "email": "rryb77@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "RyanYoungblood.png",
+            "funImg": "RyanYoungblood.png"
         },
 
         {
@@ -52,8 +52,8 @@
             "linkedIn": "https://www.linkedin.com/in/nicholas-douso/",
             "portfolio": "https://ni236630.github.io/",
             "email": "nicholas.douso@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "NicholasDouso.png",
+            "funImg": "NicholasDouso.png"
         },
 
         {
@@ -66,7 +66,7 @@
             "linkedIn": "https://www.linkedin.com/in/aaron-resch/",
             "portfolio": "https://www.aaronresch.com",
             "email": "aaronmresch@gmail.com",
-            "proImg": "",
+            "proImg": "AaronResch.png",
             "funImg": ""
         },
 
@@ -80,8 +80,8 @@
             "linkedIn": "https://www.linkedin.com/in/ryan-devault/",
             "portfolio": "https://ctrlvaultdel.github.io/",
             "email": "CtrlVaultDel51@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "RyanDeVault.png",
+            "funImg": "RyanDeVault.png"
         },
 
         {
@@ -94,8 +94,8 @@
             "linkedIn": "https://www.linkedin.com/in/stephanie-gilmore/",
             "portfolio": "https://skgilmore.github.io/",
             "email": "skg.gilmore@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "StephanieGilmore.jpg",
+            "funImg": "StephanieGilmore.jpg"
         },
 
         {
@@ -108,8 +108,8 @@
             "linkedIn": "https://www.linkedin.com/in/kate-hinrichs/",
             "portfolio": "https://kohinrichs.github.io/",
             "email": "ko.hinrichs@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "KateHinrichs.jpg",
+            "funImg": "KateHinrichs.jpg"
         },
 
         {
@@ -122,8 +122,8 @@
             "linkedIn": "https://www.linkedin.com/in/christinaashworth/",
             "portfolio": "https://christinaashworth.github.io/",
             "email": "christina.ashworth@ymail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "ChristinaAshworth.png",
+            "funImg": "ChristinaAshworth.png"
         },
 
         {
@@ -136,22 +136,8 @@
             "linkedIn": "https://www.linkedin.com/in/christopher-lunetta/",
             "portfolio": "https://cslunetta.github.io/",
             "email": "cslunetta@outlook.com",
-            "proImg": "",
-            "funImg": ""
-        },
-
-        {
-            "id": 10,
-            "firstName": "Christopher",
-            "lastName": "Lunetta",
-            "reelThemIn": "<p>“Software Developer” – An organism that turns caffeine into software</p>",
-            "bio": "<p>After years of working in the Entertainment and Transportation industry I decided to take the leap into a new career path. I have always had a knack for figuring out how things work and using that knowledge to find new ways to solve problems. Software Development was the perfect direction for me to go with my  problem solving abilities, team driven leadership skills and a love for continued learning.</p>",
-            "github": "https://github.com/cslunetta",
-            "linkedIn": "https://www.linkedin.com/in/christopher-lunetta/",
-            "portfolio": "https://cslunetta.github.io/",
-            "email": "cslunetta@outlook.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "ChristopherLunetta.png",
+            "funImg": "ChristopherLunetta.png"
         },
 
         {
@@ -164,8 +150,8 @@
             "linkedIn": "https://www.linkedin.com/in/christopher-denmark/",
             "portfolio": "https://Chris-Denmark.github.io",
             "email": "cdenmark97@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "ChrisDenmark.png",
+            "funImg": "ChrisDenmark.png"
         },
 
         {
@@ -178,8 +164,8 @@
             "linkedIn": "https://www.linkedin.com/in/william-t-curtis/",
             "portfolio": "https://tcurtis97.github.io/",
             "email": "timcurtis619@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "TimCurtis.png",
+            "funImg": "TimCurtis.png"
         },
 
         {
@@ -192,8 +178,8 @@
             "linkedIn": "https://www.linkedin.com/in/jessicadever1/",
             "portfolio": "https://jessicadever1.github.io/",
             "email": "jessicadever1@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "JessDever.png",
+            "funImg": "JessDever.png"
         },
 
         {
@@ -206,8 +192,8 @@
             "linkedIn": "www.linkedin.com/in/gregory-thompson2",
             "portfolio": "",
             "email": "mrgregorythompsonii@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "GThompson.png",
+            "funImg": "GThompson.png"
         },
 
         {
@@ -220,8 +206,8 @@
             "linkedIn": "https://www.linkedin.com/in/sosina-tolossa/",
             "portfolio": "https://sosinatolossa.github.io/",
             "email": "sosinatolossa16@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "SosinaTolossa.png",
+            "funImg": "SosinaTolossa.png"
         },
 
         {
@@ -234,8 +220,8 @@
             "linkedIn": "https://www.linkedin.com/in/paziaramirez/",
             "portfolio": "https://pazia008.github.io/",
             "email": "pazia008@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "PaziaRamirez.png",
+            "funImg": "PaziaRamirez.png"
         },
 
         {
@@ -248,8 +234,8 @@
             "linkedIn": "https://www.linkedin.com/in/anna--moore/",
             "portfolio": "https://anna-moore.github.io/",
             "email": "ammoore434@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "AnnaMoore.png",
+            "funImg": "AnnaMoore.png"
         },
 
         {
@@ -262,8 +248,8 @@
             "linkedIn": "https://www.linkedin.com/in/joshua-hughes-01b6b81a2/",
             "portfolio": "https://joshua-hughes.github.io/",
             "email": "joshuahughes1426@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "JoshuaHughes.png",
+            "funImg": "JoshuaHughes.png"
         },
 
         {
@@ -276,8 +262,8 @@
             "linkedIn": "https://www.linkedin.com/in/christine-doza",
             "portfolio": "https://xine75.github.io/",
             "email": "cjdoza@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "ChristineDoza.png",
+            "funImg": "ChristineDoza.png"
         },
 
         {
@@ -290,8 +276,8 @@
             "linkedIn": "https://www.linkedin.com/in/jordan-carter-/",
             "portfolio": "https://jicarter.github.io/",
             "email": "jordan.carter.0023@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "JordanCarter.png",
+            "funImg": "JordanCarter.png"
         },
 
         {
@@ -304,8 +290,8 @@
             "linkedIn": "https://www.linkedin.com/in/barry-shovlin/",
             "portfolio": "https://barryshovlin.github.io/",
             "email": "bshovlin32@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "BarryShovlin.png",
+            "funImg": "BarryShovlin.png"
         },
 
         {
@@ -332,8 +318,8 @@
             "linkedIn": "https://www.linkedin.com/in/meghan-semrad/",
             "portfolio": "https://megsemrad.github.io/",
             "email": "mlsemrad753@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "MeghanSemrad.png",
+            "funImg": "MeghanSemrad.png"
         },
         
         {
@@ -346,8 +332,8 @@
             "linkedIn": "www.linkedin.com/in/ron-howie",
             "portfolio": "https://rhowie86.github.io/",
             "email": "ronaldnhowie@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "RonHowie.png",
+            "funImg": "RonHowie.png"
         } 
         
     ]

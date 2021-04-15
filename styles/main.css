@@ -25,15 +25,17 @@ blockquote{
 }
 
 .navbar{
-    background-color: rgb(55, 55, 56);
-    padding: 20px;
+    padding: 1.5em;
 }
+
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
     background: #000 !important;
 }
+
 .navbar-brand{
     display: flex;
 }
+
 .nav-spacing {
   margin-right: 2em;
 }
@@ -46,10 +48,22 @@ a.nav-link:hover {
     color: #E2AA44 !important;
 }
 
-#cohort22{
+.fixed-top {
+position: relative !important;
+}
+
+.cohort45-Nav-Link {
     display: inline-block;
     color: white;
+    font-size: 1.5em;
+    margin: 0 auto;
 }
+
+.cohort45-Nav-Link:hover {
+    color: #E2AA44;
+    text-decoration: none;
+}
+
 
 #jumbheader{
     /* box-shadow: 2px 2px 2px rgb(167, 166, 166); */
@@ -85,6 +99,22 @@ h2.title-font {
     letter-spacing: .05em;
 }
 
+.developer-logo-container {
+    display: flex;
+    padding: 1em;
+}
+
+.developer-logo {
+    width: 22em !important;
+    display: flex;
+    margin: 0 auto;
+}
+
+.the-developer-tagline {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
 
 .jumbotron.jumbotron-fluid{
     background: none;
@@ -241,7 +271,7 @@ div.modal-contact div.studentContact svg.contactIcons{
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #A92323!important;
+    background-color: #000!important;
     color: white;
 }
 

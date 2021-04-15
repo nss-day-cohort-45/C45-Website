@@ -110,6 +110,10 @@ h2.title-font {
     margin: 0 auto;
 }
 
+.tagline {
+    padding-bottom: .5em;
+}
+
 .the-developer-tagline {
     color: white;
     font-size: 1em;
@@ -316,7 +320,6 @@ button{
         background: url("../assets/images/bg.jpg") repeat;
     } */
     .jumbotron.jumbotron-fluid img{
-        background: white;
         margin-top:30px;
        }
        .jumbotron.jumbotron-fluid.sm-width{

@@ -48,6 +48,14 @@ a.nav-link:hover {
     color: #E2AA44 !important;
 }
 
+span.navbar-toggler-icon {
+    color: white !important;
+    background-color: white;
+    border-radius: 2px;
+    padding: .5em;
+    border: 2px solid white;
+}
+
 .fixed-top {
 position: relative !important;
 }
@@ -277,6 +285,10 @@ div.modal-contact div.studentContact svg.contactIcons{
     font-size: 1em;
     background-color: #000!important;
     color: white;
+}
+
+.footer-copyright {
+    text-align: center !important;
 }
 
 #demo-date {

@@ -52,6 +52,7 @@ blockquote {
 .navbar-brand {
   display: flex;
 }
+
 .nav-spacing {
   margin-right: 2em;
 }
@@ -62,6 +63,14 @@ a.nav-link {
 
 a.nav-link:hover {
   color: #e2aa44 !important;
+}
+
+span.navbar-toggler-icon {
+    color: white !important;
+    background-color: white;
+    border-radius: 2px;
+    padding: .5em;
+    border: 2px solid white;
 }
 
 .fixed-top {
@@ -85,6 +94,7 @@ a.nav-link:hover {
   background-color: #a92323 !important;
   color: lightgray;
 }
+
 .header-text {
   margin: 0 auto;
   padding-top: 10px;
@@ -124,6 +134,20 @@ h2.title-font {
 }
 
 .the-developer-tagline {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+}
+
+.developer-logo-container {
+    display: flex;
+    padding: 1em;
+}
+
+.developer-logo {
+    width: 22em !important;
+    display: flex;
+    margin: 0 auto;
   color: white;
   font-size: 1em;
   text-align: center;
@@ -293,12 +317,16 @@ div.modal-contact div.studentContact svg.contactIcons {
   color: white;
 }
 
+.footer-copyright {
+    text-align: center !important;
+}
+
 #demo-date {
   text-align: center;
 }
 
 #demo-date a {
-  color: #238193 !important;
+    color: #E2AA44!important;
 }
 
 button {
@@ -310,8 +338,9 @@ button {
 }
 
 .btn-outline-primary:hover {
-  color: white !important;
-  background-color: #e2aa44 !important;
+    color: white!important;
+    background-color: #E2AA44!important;
+    border-color: #E2AA44!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
@@ -328,41 +357,102 @@ button {
 }
 
 @media (max-width: 900px) {
-  /* body {
-        background: url("../assets/images/bg.jpg") repeat;
+
+    .jumbotron.jumbotron-fluid img{
+        margin-top:30px;
+       }
+
+       .jumbotron.jumbotron-fluid.sm-width{
+        width: 100%;
+    }
+       .header-text{
+        margin: 0 auto;
+        height: 30px;
+       }
+       .header-text h2{
+        font-size: 1.5em;
+        margin-top: -10px;
+       }
+       .modal-body{
+        display: block;
+      }
+      .modal-content {
+        width: 100%;
+    }
+       /* .modal-body img{
+        width: 100%;
+      } */
+      main {
+        margin-bottom: 100px;
+        margin-top: -50px;
+        width: 100%
+      }
+      .navbar-brand img{
+        padding-right: none;
+      }
+
+}
+
+@media (min-width:320px) and (max-width: 800px) { 
+    /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+
+    header {
+        display: flex !important;
+        flex-direction: row !important;
+    }
+
+    .nav.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
+        display: flex;
+        flex-direction: row !important;
+    }
+
+    .cohort45-Nav-Link {
+        font-size: 1em;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }   
+
+    .navbar {
+        display: flex !important;
+        flex-direction: row !important;
+    }
+
+    /* div#navbarNav {
+        margin: 0 auto !important;
+        justify-content: center;
+        display: flex;
+
+    }
+
+    #navbarNav {
+        text-align: center !important;
     } */
-  .jumbotron.jumbotron-fluid img {
-    background: white;
-    margin-top: 30px;
-  }
-  .jumbotron.jumbotron-fluid.sm-width {
-    width: 100%;
-  }
-  .header-text {
-    margin: 0 auto;
-    height: 30px;
-  }
-  .header-text h2 {
-    font-size: 1.5em;
-    margin-top: -10px;
-  }
-  .modal-body {
-    display: block;
-  }
-  .modal-content {
-    width: 100%;
-  }
-  .modal-body img {
-    width: 100%;
-  }
-  main {
-    margin-bottom: 100px;
-    margin-top: -50px;
-    width: 100%;
-  }
-  .navbar-brand img {
-    padding-right: none;
-  }
+
+    .developer-logo {
+        width: 20em !important;
+    }
+    
+    .tagline {
+        font-size: 1.1em;
+        font-weight: 600;
+    }
+
+    .sub-tagline {
+        font-size: .9em;
+    }
+
+    h1 {
+        font-size: 2em;
+        font-weight: 600;
+    }
+
+    #demo-date a {
+        font-size: .9em;
+    }
+
+    #cohort {
+        padding-top: 1rem;
+    }
 }
 
 .ty {

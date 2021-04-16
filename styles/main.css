@@ -17,6 +17,10 @@ html, body {
     font-family: 'Spartan', sans-serif;
 }
 
+#cohort {
+    padding-top: 5rem;
+}
+
 blockquote{
     margin-left: 40px;
     margin-right: 40px;

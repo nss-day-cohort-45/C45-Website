@@ -13,7 +13,6 @@
             "proImg": "TatianeKomrij.png",
             "funImg": "TatianeKomrij.png"
         },
-
         {
             "id": 2,
             "firstName": "Rickie",
@@ -24,10 +23,9 @@
             "linkedIn": "https://www.linkedin.com/in/rickie-le/",
             "portfolio": "https://rickiele.github.io/",
             "email": "Rickie's email",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "default.png",
+            "funImg": "default.png"
         },
-
         {
             "id": 3,
             "firstName": "Ryan",
@@ -41,7 +39,6 @@
             "proImg": "RyanYoungblood.png",
             "funImg": "RyanYoungblood.png"
         },
-
         {
             "id": 4,
             "firstName": "Nicholas",
@@ -55,7 +52,6 @@
             "proImg": "NicholasDouso.png",
             "funImg": "NicholasDouso.png"
         },
-
         {
             "id": 5,
             "firstName": "Aaron",
@@ -69,7 +65,6 @@
             "proImg": "AaronResch.png",
             "funImg": "AaronResch.png"
         },
-
         {
             "id": 6,
             "firstName": "Ryan",
@@ -83,7 +78,6 @@
             "proImg": "RyanDeVault.png",
             "funImg": "RyanDeVault.png"
         },
-
         {
             "id": 7,
             "firstName": "Stephanie",
@@ -97,7 +91,6 @@
             "proImg": "StephanieGilmore.jpg",
             "funImg": "StephanieGilmore.jpg"
         },
-
         {
             "id": 8,
             "firstName": "Kate",
@@ -111,7 +104,6 @@
             "proImg": "KateHinrichs.jpg",
             "funImg": "KateHinrichs.jpg"
         },
-
         {
             "id": 9,
             "firstName": "Christina",
@@ -125,7 +117,6 @@
             "proImg": "ChristinaAshworth.png",
             "funImg": "ChristinaAshworth.png"
         },
-
         {
             "id": 10,
             "firstName": "Christopher",
@@ -139,7 +130,6 @@
             "proImg": "ChristopherLunetta.png",
             "funImg": "ChristopherLunetta.png"
         },
-
         {
             "id": 11,
             "firstName": "Chris",
@@ -153,7 +143,6 @@
             "proImg": "ChrisDenmark.png",
             "funImg": "ChrisDenmark.png"
         },
-
         {
             "id": 12,
             "firstName": "Tim",
@@ -167,7 +156,6 @@
             "proImg": "TimCurtis.png",
             "funImg": "TimCurtis.png"
         },
-
         {
             "id": 13,
             "firstName": "Jess",
@@ -181,7 +169,6 @@
             "proImg": "JessDever.png",
             "funImg": "JessDever.png"
         },
-
         {
             "id": 14,
             "firstName": "Gregory",
@@ -195,7 +182,6 @@
             "proImg": "GThompson.png",
             "funImg": "GThompson.png"
         },
-
         {
             "id": 15,
             "firstName": "Sosina",
@@ -209,7 +195,6 @@
             "proImg": "SosinaTolossa.png",
             "funImg": "SosinaTolossa.png"
         },
-
         {
             "id": 16,
             "firstName": "Pazia",
@@ -223,7 +208,6 @@
             "proImg": "PaziaRamirez.png",
             "funImg": "PaziaRamirez.png"
         },
-
         {
             "id": 17,
             "firstName": "Anna",
@@ -237,7 +221,6 @@
             "proImg": "AnnaMoore.png",
             "funImg": "AnnaMoore.png"
         },
-
         {
             "id": 18,
             "firstName": "Joshua",
@@ -251,7 +234,6 @@
             "proImg": "JoshuaHughes.png",
             "funImg": "JoshuaHughes.png"
         },
-
         {
             "id": 19,
             "firstName": "Christine",
@@ -265,7 +247,6 @@
             "proImg": "ChristineDoza.png",
             "funImg": "ChristineDoza.png"
         },
-
         {
             "id": 20,
             "firstName": "Jordan",
@@ -279,7 +260,6 @@
             "proImg": "JordanCarter.png",
             "funImg": "JordanCarter.png"
         },
-
         {
             "id": 21,
             "firstName": "Barry",
@@ -293,7 +273,6 @@
             "proImg": "BarryShovlin.png",
             "funImg": "BarryShovlin.png"
         },
-
         {
             "id": 22,
             "firstName": "Iman",
@@ -304,10 +283,9 @@
             "linkedIn": "https://www.linkedin.com/in/barry-shovlin/",
             "portfolio": "",
             "email": "biman.nadeem.825@gmail.com",
-            "proImg": "",
-            "funImg": ""
+            "proImg": "default.png",
+            "funImg": "default.png"
         },
-
         {
             "id": 23,
             "firstName": "Meghan",
@@ -321,7 +299,6 @@
             "proImg": "MeghanSemrad.png",
             "funImg": "MeghanSemrad.png"
         },
-        
         {
             "id": 24,
             "firstName": "Ron",
@@ -334,7 +311,6 @@
             "email": "ronaldnhowie@gmail.com",
             "proImg": "RonHowie.png",
             "funImg": "RonHowie.png"
-        } 
-        
+        }
     ]
 }

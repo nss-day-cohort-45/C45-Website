@@ -17,6 +17,20 @@ html, body {
     font-family: 'Spartan', sans-serif;
 }
 
+.roseIcon {
+    width: 1rem;
+    /* margin-right: 1rem;
+    margin-left: 1rem; */
+    
+    
+}
+
+.centerRose {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
 #cohort {
     padding-top: 5rem;
 }
@@ -364,5 +378,6 @@ button{
 }
 
 .thanks {
-    padding: 2.5rem;
+    padding: 4.5rem;
+    margin: 0 5rem 0 5rem;
 }

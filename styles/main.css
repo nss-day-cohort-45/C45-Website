@@ -155,13 +155,6 @@ h2.title-font {
     margin: 0 auto;
 }
 
-/* .the-developer-tagline {
-    color: white;
-    font-size: 1em;
-    text-align: center;
-    padding: 2rem 0 2rem 0;
-} */
-
 .tagline {
     font-size: x-large;
 }
@@ -170,9 +163,15 @@ h2.title-font {
     margin-top: -.55em;
 }
 
+.jumbotron.jumbotron-fluid.sm-width {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
 .jumbotron.jumbotron-fluid{
     background: none;
    }
+
 .jumbotron.jumbotron-fluid img{
     background: none;
     width:100%;
@@ -338,7 +337,7 @@ div.modal-contact div.studentContact svg.contactIcons{
 }
 
 #demo-date a {
-    color: #238193!important;
+    color: #E2AA44!important;
 }
 
 button{
@@ -352,6 +351,7 @@ button{
 .btn-outline-primary:hover{
     color: white!important;
     background-color: #E2AA44!important;
+    border-color: #E2AA44!important;
 }
 
 /* adjusts size of contact icons depending on size of card */

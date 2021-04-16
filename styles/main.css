@@ -1,13 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@200;400;600;700&display=swap');
+
 p {
-  font-family: 'Barlow', sans-serif;
+    font-family: 'Spartan', sans-serif;
+}
+
+h5 {
+    font-size: 2.25em;
 }
 
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    /* background: url("../images/background.jpg") fixed no-repeat; */
     background-size: 100%;
     background-color: black;
+    font-family: 'Spartan', sans-serif;
+}
+
+.roseIcon {
+    width: 1rem;
+    /* margin-right: 1rem;
+    margin-left: 1rem; */
+    
+    
+}
+
+.centerRose {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#cohort {
+    padding-top: 5rem;
 }
 
 blockquote{
@@ -20,9 +45,10 @@ blockquote{
 .navbar{
     background-color: rgb(55, 55, 56);
     padding: 20px;
+    padding: 1.5em;
 }
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
-    background: white !important;
+    background: #000 !important;
 }
 .navbar-brand{
     display: flex;
@@ -31,14 +57,33 @@ blockquote{
   margin-right: 2em;
 }
 
-#cohort22{
+a.nav-link {
+    color: white !important;
+}
+
+a.nav-link:hover {
+    color: #E2AA44 !important;
+}
+
+.fixed-top {
+position: relative !important;
+}
+
+.cohort45-Nav-Link {
     display: inline-block;
-    color: #238193;
+    color: white;
+    font-size: 1.5em;
+    margin: 0 auto;
+}
+
+.cohort45-Nav-Link:hover {
+    color: #E2AA44;
+    text-decoration: none;
 }
 
 #jumbheader{
-    box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
+    /* box-shadow: 2px 2px 2px rgb(167, 166, 166); */
+    background-color: #A92323!important;
     color: lightgray;
 
 }
@@ -52,7 +97,7 @@ blockquote{
 }
 
 .title-font {
-    text-align: center;
+    text-align: center !important;
     vertical-align: middle;
 }
 
@@ -60,6 +105,38 @@ blockquote{
     height: 50px;
 }
 
+h1.text-center {
+    color: white;
+}
+
+h2.title-font {
+    text-transform: uppercase;
+    font-size: 1.25em;
+    letter-spacing: .05em;
+}
+
+
+.developer-logo-container {
+    display: flex;
+    padding: 1em;
+}
+
+.developer-logo {
+    width: 22em !important;
+    display: flex;
+    margin: 0 auto;
+}
+
+.the-developer-tagline {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    padding: 2rem 0 2rem 0;
+}
+
+.tagline {
+    font-size: x-large;
+}
 
 .jumbotron.jumbotron-fluid{
     background: none;
@@ -89,12 +166,9 @@ main {
 }
 
 .col-md-3.cohortMems{
-    border: 1px solid lightgray;
-    border-radius:10px;
-    box-shadow: 2px 2px 2px lightgray;
     margin: 10px;
     margin-bottom: 25px;
-    background: white;
+    color: white;
 }
 
 .col-sm-2.technologies{
@@ -103,7 +177,7 @@ main {
     box-shadow: none;
 }
 
-.technos, .words{
+.technos {
     margin-top: -55px;
     background: white;
     padding:20px;
@@ -115,8 +189,13 @@ main {
     margin: 20px 0px;
   }
 
-.words{
-    padding:50px;
+.thankyou--container {
+    background: white;
+    display: flex;
+}
+
+div.thanks p {
+    display: flex
 }
 
 .no-gutters {
@@ -125,8 +204,9 @@ main {
   }
 
 .card-img-top{
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+    border-radius: 10em;
+    /* border-top-left-radius: 10px;
+    border-top-right-radius: 10px; */
   }
 
 .col,
@@ -139,6 +219,19 @@ main {
     display: block;
   }
 
+  .modal-content {
+      background-color: #000;
+  }
+
+  body.modal-open {
+    color: white !important;
+  }
+
+  .close {
+      color: white !important;
+      text-shadow: none !important;
+  }
+
   .studentContact{
       text-align: center;
       display: flex;
@@ -148,32 +241,59 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: #A92323;
   }
   .contactIcons:hover{
       transform: scale(1.2);
   }
 
   .modal-header{
-    background-color: lightgray!important;
-    color: #238193;
+    /* background-color: lightgray!important; */
+    /* color: #238193; */
+    border: none;
+    text-align: center;
   }
 
-  .modal-body img{
+  .modal-title .title-font{
+    text-align: left !important;
+}
+
+.modal-img-container {
+    background-color: white;
+    width: 100%;
+    margin-bottom: 1em;
+}
+
+.modal-img {
+    margin: 0 auto;
+    display: block;
     width: 50%;
     height: 50%;
-    box-shadow: 3px 3px 5px #cacaca;
-    border-radius: 10px;
-  }
+    margin-bottom: -1.50em;
+}
+  
+div.modal-body h5 {
+    text-align: left !important;
+}
+    
+.modal-contact {
+     float: left;
+}
 
-  .backButton{
-      margin-bottom: 1.5rem;
-  }
+div.modal-contact div.studentContact svg.contactIcons{
+    padding: .1em;
+}
+
+.backButton {
+    margin-bottom: 1.5rem;
+    float: right;
+    margin: 1em;
+}
 
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color: #000!important;
     color: white;
 }
 
@@ -189,13 +309,13 @@ button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: white !important;
+    border-color: #A92323!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: #E2AA44!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
@@ -250,4 +370,14 @@ button{
         padding-right: none;
       }
 
+}
+
+
+.ty {
+    padding: 1rem;
+}
+
+.thanks {
+    padding: 4.5rem;
+    margin: 0 5rem 0 5rem;
 }

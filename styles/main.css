@@ -17,6 +17,24 @@ html, body {
     font-family: 'Spartan', sans-serif;
 }
 
+.roseIcon {
+    width: 1rem;
+    /* margin-right: 1rem;
+    margin-left: 1rem; */
+    
+    
+}
+
+.centerRose {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+#cohort {
+    padding-top: 5rem;
+}
+
 blockquote{
     margin-left: 40px;
     margin-right: 40px;
@@ -25,6 +43,8 @@ blockquote{
 }
 
 .navbar{
+    background-color: rgb(55, 55, 56);
+    padding: 20px;
     padding: 1.5em;
 }
 
@@ -126,6 +146,28 @@ h2.title-font {
     color: white;
     font-size: 1em;
     text-align: center;
+}
+
+.developer-logo-container {
+    display: flex;
+    padding: 1em;
+}
+
+.developer-logo {
+    width: 22em !important;
+    display: flex;
+    margin: 0 auto;
+}
+
+.the-developer-tagline {
+    color: white;
+    font-size: 1em;
+    text-align: center;
+    padding: 2rem 0 2rem 0;
+}
+
+.tagline {
+    font-size: x-large;
 }
 
 .jumbotron.jumbotron-fluid{
@@ -363,4 +405,14 @@ button{
         padding-right: none;
       }
 
+}
+
+
+.ty {
+    padding: 1rem;
+}
+
+.thanks {
+    padding: 4.5rem;
+    margin: 0 5rem 0 5rem;
 }

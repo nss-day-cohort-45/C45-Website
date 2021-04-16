@@ -138,10 +138,6 @@ h2.title-font {
     margin: 0 auto;
 }
 
-.tagline {
-    padding-bottom: .5em;
-}
-
 .the-developer-tagline {
     color: white;
     font-size: 1em;
@@ -159,15 +155,19 @@ h2.title-font {
     margin: 0 auto;
 }
 
-.the-developer-tagline {
+/* .the-developer-tagline {
     color: white;
     font-size: 1em;
     text-align: center;
     padding: 2rem 0 2rem 0;
-}
+} */
 
 .tagline {
     font-size: x-large;
+}
+
+.sub-tagline {
+    margin-top: -.55em;
 }
 
 .jumbotron.jumbotron-fluid{

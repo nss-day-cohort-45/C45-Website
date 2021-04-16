@@ -370,16 +370,11 @@ button {
 }
 
 .thanks {
-<<<<<<< HEAD
     padding: 4.5rem;
     margin: 0 5rem 0 5rem;
 }
 
 .thankyou--container {
     margin-top: -6rem;
+    padding: 4rem;
 }
-=======
-  padding: 4.5rem;
-  margin: 0 5rem 0 5rem;
-}
->>>>>>> main

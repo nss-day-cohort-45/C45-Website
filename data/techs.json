@@ -88,7 +88,13 @@
             "id": 22,
             "name": "React.js",
             "image": "reactlogo.png",
-            "link": "https://www.asp.net/mvc"
+            "link": "https://reactjs.org/"
+        },
+        {
+            "id": 23,
+            "name": "ADO.Net",
+            "image": "ado-net.jpg",
+            "link": "https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/ado-net-overview"
         }
     ]
 }

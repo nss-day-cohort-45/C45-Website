@@ -46,21 +46,11 @@ blockquote {
   padding: 20px;
   padding: 1.5em;
 }
-<<<<<<< HEAD
-
-.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
-    background: #000 !important;
-}
-
-.navbar-brand{
-    display: flex;
-=======
 .navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
   background: #000 !important;
 }
 .navbar-brand {
   display: flex;
->>>>>>> main
 }
 
 .nav-spacing {
@@ -99,20 +89,12 @@ span.navbar-toggler-icon {
   text-decoration: none;
 }
 
-<<<<<<< HEAD
-
-#jumbheader{
-    /* box-shadow: 2px 2px 2px rgb(167, 166, 166); */
-    background-color: #A92323!important;
-    color: lightgray;
-
-=======
 #jumbheader {
   /* box-shadow: 2px 2px 2px rgb(167, 166, 166); */
   background-color: #a92323 !important;
   color: lightgray;
->>>>>>> main
 }
+
 .header-text {
   margin: 0 auto;
   padding-top: 10px;
@@ -152,7 +134,6 @@ h2.title-font {
 }
 
 .the-developer-tagline {
-<<<<<<< HEAD
     color: white;
     font-size: 1em;
     text-align: center;
@@ -167,38 +148,16 @@ h2.title-font {
     width: 22em !important;
     display: flex;
     margin: 0 auto;
-=======
   color: white;
   font-size: 1em;
   text-align: center;
   padding: 2rem 0 2rem 0;
->>>>>>> main
 }
 
 .tagline {
   font-size: x-large;
 }
 
-<<<<<<< HEAD
-.sub-tagline {
-    margin-top: -.55em;
-}
-
-.jumbotron.jumbotron-fluid.sm-width {
-    margin-top: 0;
-    margin-bottom: 0;
-}
-
-.jumbotron.jumbotron-fluid{
-    background: none;
-   }
-
-.jumbotron.jumbotron-fluid img{
-    background: none;
-    width:100%;
-    margin-top: -80px;
-   }
-=======
 .jumbotron.jumbotron-fluid {
   background: none;
 }
@@ -207,7 +166,6 @@ h2.title-font {
   width: 100%;
   margin-top: -80px;
 }
->>>>>>> main
 
 main {
   margin-bottom: 20px;
@@ -368,11 +326,7 @@ div.modal-contact div.studentContact svg.contactIcons {
 }
 
 #demo-date a {
-<<<<<<< HEAD
     color: #E2AA44!important;
-=======
-  color: #238193 !important;
->>>>>>> main
 }
 
 button {
@@ -425,9 +379,9 @@ button {
       .modal-content {
         width: 100%;
     }
-       .modal-body img{
+       /* .modal-body img{
         width: 100%;
-      }
+      } */
       main {
         margin-bottom: 100px;
         margin-top: -50px;
@@ -499,42 +453,6 @@ button {
     #cohort {
         padding-top: 1rem;
     }
-}
-
-
-  .jumbotron.jumbotron-fluid img {
-    background: white;
-    margin-top: 30px;
-  }
-  .jumbotron.jumbotron-fluid.sm-width {
-    width: 100%;
-  }
-  .header-text {
-    margin: 0 auto;
-    height: 30px;
-  }
-  .header-text h2 {
-    font-size: 1.5em;
-    margin-top: -10px;
-  }
-  .modal-body {
-    display: block;
-  }
-  .modal-content {
-    width: 100%;
-  }
-  .modal-body img {
-    width: 100%;
-  }
-  main {
-    margin-bottom: 100px;
-    margin-top: -50px;
-    width: 100%;
-  }
-  .navbar-brand img {
-    padding-right: none;
-  }
-  
 }
 
 .ty {

@@ -17,14 +17,14 @@
             "id": 2,
             "firstName": "Rickie",
             "lastName": "Le",
-            "reelThemIn": "<p>This is a quote</p>",
-            "bio": "<p>Really cool human.</p>",
+            "reelThemIn": "<p>99 little bugs in the code, 99 bugs in the code, patch one down, compile it around, 117 bugs in the code</p>",
+            "bio": "<p>After many years of being a graphic designer, I decided to go into software development. It seemed like the perfect blend of both creative and strategic thinking. It allows me to combine my love of design with development, and gives me the opportunity to make even cooler things! </p>",
             "github": "https://github.com/rickiele",
             "linkedIn": "https://www.linkedin.com/in/rickie-le/",
             "portfolio": "https://rickiele.github.io/",
-            "email": "Rickie's email",
-            "proImg": "default.png",
-            "funImg": "default.png"
+            "email": "rickiele.rl@gmail.com",
+            "proImg": "RickieLe.png",
+            "funImg": "RickieLe.png"
         },
         {
             "id": 3,
@@ -280,11 +280,11 @@
             "reelThemIn": "<p>“Make today the best day of your life, until tomorrow.” ― Robyn Martino </p>",
             "bio": "<p>I'm originally from Milwaukee, Wisconsin, but have been in Nashville since 2014. I'm now a software developer, but will always carry my passions for music, the medical field, and social justice wherever I go. People always have and always will come first in my life, and being a developer is a new opportunity to make a postiive, lasting impact in whatever way I can.  </p>",
             "github": "https://github.com/imannadeem825",
-            "linkedIn": "https://www.linkedin.com/in/barry-shovlin/",
+            "linkedIn": "https://www.linkedin.com/in/iman-nadeem/",
             "portfolio": "",
             "email": "biman.nadeem.825@gmail.com",
-            "proImg": "default.png",
-            "funImg": "default.png"
+            "proImg": "ImanNadeem.png",
+            "funImg": "ImanNadeem.png"
         },
         {
             "id": 23,

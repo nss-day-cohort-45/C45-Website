@@ -362,17 +362,15 @@ button{
 }
 
 @media (min-width: 768px) and (max-width: 991px){
-    .fa-3x{
+    .fa-3x {
         font-size: 2em!important;
-      }    
+      } 
+
 }
 
 
 @media (max-width: 900px) {
 
-    /* body {
-        background: url("../assets/images/bg.jpg") repeat;
-    } */
     .jumbotron.jumbotron-fluid img{
         margin-top:30px;
        }
@@ -405,6 +403,68 @@ button{
         padding-right: none;
       }
 
+}
+
+@media (min-width:320px) and (max-width: 800px) { 
+    /* smartphones, portrait iPhone, portrait 480x320 phones (Android) */ 
+
+    header {
+        display: flex !important;
+        flex-direction: row !important;
+    }
+
+    .nav.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
+        display: flex;
+        flex-direction: row !important;
+    }
+
+    .cohort45-Nav-Link {
+        font-size: 1em;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }   
+
+    .navbar {
+        display: flex !important;
+        flex-direction: row !important;
+    }
+
+    /* div#navbarNav {
+        margin: 0 auto !important;
+        justify-content: center;
+        display: flex;
+
+    }
+
+    #navbarNav {
+        text-align: center !important;
+    } */
+
+    .developer-logo {
+        width: 20em !important;
+    }
+    
+    .tagline {
+        font-size: 1.1em;
+        font-weight: 600;
+    }
+
+    .sub-tagline {
+        font-size: .9em;
+    }
+
+    h1 {
+        font-size: 2em;
+        font-weight: 600;
+    }
+
+    #demo-date a {
+        font-size: .9em;
+    }
+
+    #cohort {
+        padding-top: 1rem;
+    }
 }
 
 

@@ -7,18 +7,6 @@
             "link": "https://www.javascript.com/"
         },
         {
-            "id": 2,
-            "name": "AngularJS",
-            "image": "angularjs.png",
-            "link": "https://angularjs.org/"
-        },
-        {
-            "id": 3,
-            "name": "jQuery",
-            "image": "jquery.png",
-            "link": "https://jquery.com/"
-        },
-        {
             "id": 4,
             "name": "Git",
             "image": "git.png",
@@ -29,12 +17,6 @@
             "name": "Github",
             "image": "github.png",
             "link": "https://github.com/"
-        },
-        {
-            "id": 6,
-            "name": "Grunt",
-            "image": "grunt.png",
-            "link": "https://gruntjs.com/"
         },
         {
             "id": 7,
@@ -49,22 +31,10 @@
             "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
         },
         {
-            "id": 9,
-            "name": "Sass",
-            "image": "sass.png",
-            "link": "https://sass-lang.com/"
-        },
-        {
             "id": 10,
             "name": "Bootstrap",
             "image": "bootstrap.png",
             "link": "https://getbootstrap.com/"
-        },
-        {
-            "id": 11,
-            "name": "Browserify",
-            "image": "browserify.png",
-            "link": "http://browserify.org/"
         },
         {
             "id": 12,
@@ -73,22 +43,10 @@
             "link": "https://firebase.google.com"
         },
         {
-            "id": 13,
-            "name": "Materialize",
-            "image": "materialize.png",
-            "link": "http://materializecss.com/"
-        },
-        {
             "id": 14,
             "name": "NPM",
             "image": "npm.png",
             "link": "https://www.npmjs.com/"
-        },
-        {
-            "id": 15,
-            "name": "SQLite3",
-            "image": "sqlite.png",
-            "link": "https://www.sqlite.org/"
         },
         {
             "id": 16,
@@ -110,8 +68,8 @@
         },
         {
             "id": 19,
-            "name": ".NET Core",
-            "image": "dotnetcore.png",
+            "name": ".NET5",
+            "image": "Net5-color.png",
             "link": "https://www.microsoft.com/net/"
         },
         {
@@ -128,15 +86,9 @@
         },
         {
             "id": 22,
-            "name": "ES lint",
-            "image": "eslint.png",
-            "link": "https://eslint.org/"
-        },
-        {
-            "id": 23,
-            "name": "UglifyJs",
-            "image": "uglify.png",
-            "link": "https://www.npmjs.com/package/uglifyjs"
+            "name": "React.js",
+            "image": "reactlogo.png",
+            "link": "https://www.asp.net/mvc"
         }
     ]
 }
